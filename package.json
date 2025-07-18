@@ -27,7 +27,7 @@
     "@tensorflow/tfjs": "^4.22.0",
     "crypto-js": "^4.2.0",
     "mongoose": "^8.14.2",
-    "multer": "^1.4.5-lts.2",
+    "multer": "^2.0.2",
     "natural": "^8.0.1",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1"
